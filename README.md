@@ -1,2 +1,2 @@
 # Servidor-Proxy
-Proyecto realizado en el 2022. Consiste en un servidor proxy realizado en Java que hace uso de IPv4.
+Project carried out in 2022. It consists of a proxy server made in Java that makes use of IPv4. Project already finished.
